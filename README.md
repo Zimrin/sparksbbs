@@ -1,7 +1,7 @@
 # sparksbbs
 Sparks-basic-banking-system
 
-# Task 1 for Web Development Intership at The Sparks Foundation
+# Task 1 for Web Development; The Sparks Foundation
 
 Basic Banking System :- A simple web application to transfer money between 10 users.
 
