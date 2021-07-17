@@ -9,7 +9,7 @@
   <script src="https://kit.fontawesome.com/d2747108de.js" crossorigin="anonymous"></script>
   <title>Spark's Bank</title>
   <style>body {
-    <div class="bg-image"></div>
+    background-image: url("images/banksplash.jpg");
     background-size: cover;
     height: 100%;
     width: 100%;
@@ -18,6 +18,7 @@
     }</style>
 </head>
 <body>
+
   <div id="title">
      <ul class="nav nav-pills nav-fill">
           <li class="nav-item">
